@@ -2,7 +2,7 @@
 
 
 Full Stack Developer con formación en administración de empresas, dedicada, responsable, resolutiva, formada con grandes valores y principios éticos, motivada y siempre dispuesta para el aprendizaje de nuevas tecnologías, excelente comunicación y trabajo en equipo.
-https://portafolio-bice.vercel.app
+Portafolio https://portafolio-yesminarias.vercel.app/
 
 ## Lenguajes:
 <div>
