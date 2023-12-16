@@ -1,7 +1,7 @@
 ### Hola 👋, 
 
 
-Full Stack Developer con formación en administración de empresas y FullStack, dedicada, responsable, resolutiva, formada con grandes valores y principios éticos, motivada y siempre dispuesta para el aprendizaje de nuevas tecnologías, excelente comunicación y trabajo en equipo.
+Full Stack Developer con formación en FullStack, dedicada, responsable, resolutiva, formada con grandes valores y principios éticos, motivada y siempre dispuesta para el aprendizaje de nuevas tecnologías, excelente comunicación y trabajo en equipo.
 
 
 ## Lenguajes:
@@ -16,7 +16,7 @@ Full Stack Developer con formación en administración de empresas y FullStack, 
   <img height="30" width="40" alt="EXPRESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
   <img height="30" width="40" alt="POSTGRESQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img height="30" width="40" alt="NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img height="30" width="40" alt="NODE.JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+  <img height="30" width="40" alt="DJANGO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 
 </div>
 
